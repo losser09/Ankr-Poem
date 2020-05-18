@@ -3,5 +3,6 @@ The rainbow
 red
 green
 white
+orange
 yellow
 this is the colour of my poem
