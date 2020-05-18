@@ -4,6 +4,8 @@ red
 green
 white
 phoni
+earth 
+recycle!
 unicorn
 orange
 yellow
