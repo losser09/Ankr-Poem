@@ -6,6 +6,7 @@ white
 unicorn
 orange
 yellow
+blue
 black
 this is the colour of my poem
 and the unicorn
