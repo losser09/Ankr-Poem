@@ -3,6 +3,7 @@ today is earth day
 red
 green
 white
+indigo
 phoni
 earth 
 recycle!
